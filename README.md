@@ -9,7 +9,7 @@ Welcome to the Admin Dashboard Backend! This backend system serves as the core e
 - MongoDB installed and running
 
 ### Installation
-1. Clone this repository: `git clone https://github.com/your-username/admin-dashboard-backend.git`
+1. Clone this repository: `git clone https://github.com/yousri-meftah/admin-dashboard-backend.git`
 2. Navigate to the project directory: `cd admin-dashboard-backend`
 3. Install dependencies: `npm install`
 4. Create a `.env` file and configure your environment variables (MONGO_URL="link" , PORT=1234)
